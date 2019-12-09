@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage":"https://piercehicks.github.io/split-landing-pg-design",
   "bugs": {
     "url": "https://github.com/piercehicks/split-landing-pg-design/issues"
   },
